@@ -2,13 +2,20 @@
 
 Este proyecto consiste en un header responsive diseñado para adaptarse a diferentes tamaños de pantalla. Utiliza HTML y CSS/SASS para implementar un diseño moderno y atractivo.
 
-## Descripción
+## Para teléfonos móviles
+![Header 1](Elearning-Landing-Page-MOVIL.png)
 
-El header incluye:
+## Para tablets(768px)
+![Header 1](Elearning-Landing-Page768.png)
 
-- Un logotipo en la esquina izquierda.
-- Un menú de navegación que se adapta a diferentes tamaños de pantalla.
-- Estilos que mejoran la experiencia de usuario en dispositivos móviles y de escritorio.
+## Para tablets horizontales(1024px)
+![Header 1](Elearning-Landing-Page1024.png)
+
+## Para pantallas de escritorio(1200px)
+![Header 1](Elearning-Landing-Page1200.png)
+
+## Para pantallas de escritorio XL (1400px)
+![Header 1](Elearning-Landing-Page1440.png)
 
 ## Tecnologías Usadas
 
